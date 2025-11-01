@@ -16,8 +16,10 @@ You are an urban explorer trapped in the study of a vengeful alchemist, Master V
 
 ---
 👥 Team Members:
+
     1. Krithik Sharan Suresh Alagianayagi
     2. Nithyashree Babu
+    
 ---
 
 ## ⚙️ Gameplay & Features
