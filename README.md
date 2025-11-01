@@ -15,6 +15,10 @@
 You are an urban explorer trapped in the study of a vengeful alchemist, Master Valerius. With only one hour until the moon is at its zenith, you must solve his magnum opus and brew the "Elixir of Release." As time ticks by, his spiritual presence grows stronger, and the room itself turns against you. Fail, and your soul becomes the final ingredient.
 
 ---
+👥 Team Members
+    Krithik Sharan Suresh Alagianayagi
+    Nithyashree Babu
+---
 
 ## ⚙️ Gameplay & Features
 
